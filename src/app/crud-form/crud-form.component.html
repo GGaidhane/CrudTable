@@ -1,0 +1,24 @@
+<div class="border container w-75 mt-3 shadow">
+<h4 class="text-center ">Add Products</h4>
+<div class="container mt-3 mb-3  border">
+    <form [formGroup]="ProductForm" (ngSubmit)="SubmitForm()">
+        <div class="mb-2">
+          <label for="exampleInputEmail1" class="form-label">ProductName</label>
+          <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="pName" formControlName="ProductName">
+        </div>
+        <div class="mb-2">
+          <label for="exampleInputPassword1" class="form-label">ProductCategory</label>
+          <input type="text" class="form-control" id="exampleInputPassword1" name="pCategory" formControlName="ProductCategory">
+        </div>
+        <div class="mb-2">
+            <label for="id3" class="form-label">ProductPrice</label>
+            <input type="text" class="form-control" id="id3" name="pPrice" formControlName="ProductPrice">
+          </div>
+        <div class="mb-2 form-check">
+          <input type="checkbox" class="form-check-input" id="exampleCheck1">
+          <label class="form-check-label" for="exampleCheck1">Check me out</label>
+        </div>
+        <button type="submit" class="btn btn-secondary m-2">Submit</button>
+      </form>
+</div>
+</div>

@@ -1,0 +1,46 @@
+{
+  "ProductList": [
+    {
+      "id": "4fbf",
+      "ProductName": "Iphone",
+      "ProductCategory": "Mobile",
+      "ProductPrice": "100000"
+    },
+    {
+      "id": "e82e",
+      "ProductName": "Lawn Chair",
+      "ProductCategory": "Furniture",
+      "ProductPrice": "30000"
+    },
+    {
+      "id": "15ec",
+      "ProductName": "Video Games",
+      "ProductCategory": "Toys & Games",
+      "ProductPrice": "15000"
+    },
+    {
+      "ProductName": "shirts",
+      "ProductCategory": "Clothes",
+      "ProductPrice": "500",
+      "id": "01a7"
+    },
+    {
+      "id": "a39e",
+      "ProductName": "Chocolate Pie",
+      "ProductCategory": "Food",
+      "ProductPrice": "600"
+    },
+    {
+      "id": "8724",
+      "ProductName": "Rice",
+      "ProductCategory": "Grocery",
+      "ProductPrice": "700"
+    },
+    {
+      "id": "68de",
+      "ProductName": "Wardrobes",
+      "ProductCategory": "Furniture",
+      "ProductPrice": "60000"
+    }
+  ]
+}

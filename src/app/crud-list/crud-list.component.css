@@ -1,0 +1,17 @@
+.btn{
+   background-color:darkcyan; 
+   color: white;
+}
+.editbtn{
+    color: white;
+    background-color:gold ;
+    border: 0;
+}
+.deletebtn{
+    color: white;
+    background-color: red;
+    border: 0;
+}
+.border{
+    background-color: lightgrey;
+}
